@@ -1,0 +1,44 @@
+[
+  [
+    { "category": "Champions who can go invisible", "color": "yellow", "items": ["Akali", "Evelynn", "Twitch", "Vayne"] },
+    { "category": "Demacian champions", "color": "green", "items": ["Garen", "Lux", "Jarvan IV", "Fiora"] },
+    { "category": "Champions with a global ultimate", "color": "blue", "items": ["Karthus", "Draven", "Jinx", "Lux"] },
+    { "category": "Champions from Bilgewater", "color": "purple", "items": ["Miss Fortune", "Gangplank", "Graves", "Twisted Fate"] }
+  ],
+  [
+    { "category": "Void creatures", "color": "yellow", "items": ["Cho'Gath", "Kog'Maw", "Vel'Koz", "Rek'Sai"] },
+    { "category": "Champions with a dash on E", "color": "green", "items": ["Zed", "Ahri", "Ekko", "Katarina"] },
+    { "category": "Ionian champions", "color": "blue", "items": ["Yasuo", "Irelia", "Akali", "Karma"] },
+    { "category": "Support items that give shields", "color": "purple", "items": ["Locket", "Shurelya's", "Redemption", "Knight's Vow"] }
+  ],
+  [
+    { "category": "Champions released in 2013", "color": "yellow", "items": ["Jinx", "Yasuo", "Lucian", "Thresh"] },
+    { "category": "Champions who transform", "color": "green", "items": ["Elise", "Nidalee", "Jayce", "Kayn"] },
+    { "category": "Freljordian champions", "color": "blue", "items": ["Ashe", "Sejuani", "Tryndamere", "Braum"] },
+    { "category": "Champions named after their weapon", "color": "purple", "items": ["Blitzcrank", "Orianna", "Thresh", "Jinx"] }
+  ],
+  [
+    { "category": "Champions with a revive mechanic", "color": "yellow", "items": ["Aatrox", "Zilean", "Zac", "Sion"] },
+    { "category": "Shadow Isles champions", "color": "green", "items": ["Thresh", "Kalista", "Mordekaiser", "Gwen"] },
+    { "category": "Champions whose ult costs HP", "color": "blue", "items": ["Vladimir", "Mordekaiser", "Aatrox", "Urgot"] },
+    { "category": "Noxian champions", "color": "purple", "items": ["Darius", "Draven", "Katarina", "Swain"] }
+  ],
+  [
+    { "category": "Mages with a point-and-click CC", "color": "yellow", "items": ["Veigar", "Malzahar", "Lissandra", "Annie"] },
+    { "category": "Champions with two forms", "color": "green", "items": ["Gnar", "Nidalee", "Elise", "Jayce"] },
+    { "category": "Piltover / Zaun champions", "color": "blue", "items": ["Jinx", "Vi", "Ekko", "Viktor"] },
+    { "category": "ADCs with a blink/dash", "color": "purple", "items": ["Ezreal", "Tristana", "Lucian", "Samira"] }
+  ],
+  [
+    { "category": "Champions who can shield allies", "color": "yellow", "items": ["Lulu", "Karma", "Orianna", "Janna"] },
+    { "category": "Assassins with clone mechanics", "color": "green", "items": ["Shaco", "LeBlanc", "Wukong", "Neeko"] },
+    { "category": "Yordle champions", "color": "blue", "items": ["Teemo", "Lulu", "Heimerdinger", "Tristana"] },
+    { "category": "Champions named after celestial bodies", "color": "purple", "items": ["Aurelion Sol", "Diana", "Lunari", "Zoe"] }
+  ],
+  [
+    { "category": "ADCs with percent HP damage", "color": "yellow", "items": ["Kog'Maw", "Vayne", "Caitlyn", "Jinx"] },
+    { "category": "Shuriman champions", "color": "green", "items": ["Azir", "Sivir", "Taliyah", "Nasus"] },
+    { "category": "Champions who build Riftmaker", "color": "blue", "items": ["Vladimir", "Kennen", "Sylas", "Swain"] },
+    { "category": "Champions with targeted CC ultimates", "color": "purple", "items": ["Malzahar", "Warwick", "Mordekaiser", "Urgot"] }
+  ]
+]

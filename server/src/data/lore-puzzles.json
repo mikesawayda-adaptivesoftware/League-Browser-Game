@@ -1,0 +1,20 @@
+[
+  { "championA": "Jinx", "championB": "Lux" },
+  { "championA": "Yasuo", "championB": "Sion" },
+  { "championA": "Thresh", "championB": "Nunu" },
+  { "championA": "Ahri", "championB": "Garen" },
+  { "championA": "Gangplank", "championB": "Ekko" },
+  { "championA": "Viego", "championB": "Ashe" },
+  { "championA": "Jinx", "championB": "Taliyah" },
+  { "championA": "Warwick", "championB": "Sivir" },
+  { "championA": "Diana", "championB": "Sejuani" },
+  { "championA": "Riven", "championB": "Cassiopeia" },
+  { "championA": "Graves", "championB": "Irelia" },
+  { "championA": "Zoe", "championB": "Kindred" },
+  { "championA": "Lucian", "championB": "Nami" },
+  { "championA": "Vi", "championB": "Azir" },
+  { "championA": "Thresh", "championB": "Braum" },
+  { "championA": "Shen", "championB": "Tryndamere" },
+  { "championA": "Xayah", "championB": "Viktor" },
+  { "championA": "Gwen", "championB": "Senna" }
+]

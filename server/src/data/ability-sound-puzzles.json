@@ -1,0 +1,122 @@
+[
+  {
+    "champion": "Yasuo",
+    "ability": "Select",
+    "audioFile": "yasuo-select.ogg",
+    "hint": "A swordsman from Ionia"
+  },
+  {
+    "champion": "Lux",
+    "ability": "Select",
+    "audioFile": "lux-select.ogg",
+    "hint": "A Demacian mage"
+  },
+  {
+    "champion": "Thresh",
+    "ability": "Select",
+    "audioFile": "thresh-select.ogg",
+    "hint": "A chain warden support"
+  },
+  {
+    "champion": "Jinx",
+    "ability": "Select",
+    "audioFile": "jinx-select.ogg",
+    "hint": "A chaotic ADC from Zaun"
+  },
+  {
+    "champion": "Katarina",
+    "ability": "Select",
+    "audioFile": "katarina-select.ogg",
+    "hint": "A Noxian assassin"
+  },
+  {
+    "champion": "Morgana",
+    "ability": "Select",
+    "audioFile": "morgana-select.ogg",
+    "hint": "A fallen angel mage"
+  },
+  {
+    "champion": "Zed",
+    "ability": "Select",
+    "audioFile": "zed-select.ogg",
+    "hint": "A shadow assassin"
+  },
+  {
+    "champion": "Ahri",
+    "ability": "Select",
+    "audioFile": "ahri-select.ogg",
+    "hint": "A nine-tailed fox mage"
+  },
+  {
+    "champion": "Lee Sin",
+    "ability": "Select",
+    "audioFile": "leesin-select.ogg",
+    "hint": "A blind monk jungler"
+  },
+  {
+    "champion": "Ezreal",
+    "ability": "Select",
+    "audioFile": "ezreal-select.ogg",
+    "hint": "An explorer marksman"
+  },
+  {
+    "champion": "Caitlyn",
+    "ability": "Select",
+    "audioFile": "caitlyn-select.ogg",
+    "hint": "Sheriff of Piltover"
+  },
+  {
+    "champion": "Blitzcrank",
+    "ability": "Select",
+    "audioFile": "blitzcrank-select.ogg",
+    "hint": "A steam golem support"
+  },
+  {
+    "champion": "Amumu",
+    "ability": "Select",
+    "audioFile": "amumu-select.ogg",
+    "hint": "A lonely mummy jungler"
+  },
+  {
+    "champion": "Veigar",
+    "ability": "Select",
+    "audioFile": "veigar-select.ogg",
+    "hint": "A tiny evil mage"
+  },
+  {
+    "champion": "Syndra",
+    "ability": "Select",
+    "audioFile": "syndra-select.ogg",
+    "hint": "A dark sovereign mage"
+  },
+  {
+    "champion": "Fiora",
+    "ability": "Select",
+    "audioFile": "fiora-select.ogg",
+    "hint": "A dueling swordswoman"
+  },
+  {
+    "champion": "Karthus",
+    "ability": "Select",
+    "audioFile": "karthus-select.ogg",
+    "hint": "An undead lich mage"
+  },
+  {
+    "champion": "Nunu",
+    "ability": "Select",
+    "audioFile": "nunu-select.ogg",
+    "hint": "A boy and his yeti"
+  },
+  {
+    "champion": "Rammus",
+    "ability": "Select",
+    "audioFile": "rammus-select.ogg",
+    "hint": "OK."
+  },
+  {
+    "champion": "Sona",
+    "ability": "Select",
+    "audioFile": "sona-select.ogg",
+    "hint": "A musical enchanter support"
+  }
+]

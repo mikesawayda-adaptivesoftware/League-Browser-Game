@@ -1,0 +1,2024 @@
+[
+  {
+    "id": "Aatrox",
+    "name": "Aatrox",
+    "title": "the Darkin Blade",
+    "roles": [
+      "Fighter"
+    ],
+    "releaseDate": "2013-06-13",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Aatrox.png"
+  },
+  {
+    "id": "Ahri",
+    "name": "Ahri",
+    "title": "the Nine-Tailed Fox",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "releaseDate": "2011-12-14",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Ahri.png"
+  },
+  {
+    "id": "Akali",
+    "name": "Akali",
+    "title": "the Rogue Assassin",
+    "roles": [
+      "Assassin"
+    ],
+    "releaseDate": "2010-05-11",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Akali.png"
+  },
+  {
+    "id": "Akshan",
+    "name": "Akshan",
+    "title": "the Rogue Sentinel",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "releaseDate": "2021-07-22",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Akshan.png"
+  },
+  {
+    "id": "Alistar",
+    "name": "Alistar",
+    "title": "the Minotaur",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Alistar.png"
+  },
+  {
+    "id": "Ambessa",
+    "name": "Ambessa",
+    "title": "Matriarch of War",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Ambessa.png"
+  },
+  {
+    "id": "Amumu",
+    "name": "Amumu",
+    "title": "the Sad Mummy",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Amumu.png"
+  },
+  {
+    "id": "Anivia",
+    "name": "Anivia",
+    "title": "the Cryophoenix",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Anivia.png"
+  },
+  {
+    "id": "Annie",
+    "name": "Annie",
+    "title": "the Dark Child",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Annie.png"
+  },
+  {
+    "id": "Aphelios",
+    "name": "Aphelios",
+    "title": "the Weapon of the Faithful",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2019-11-25",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Aphelios.png"
+  },
+  {
+    "id": "Ashe",
+    "name": "Ashe",
+    "title": "the Frost Archer",
+    "roles": [
+      "Marksman",
+      "Support"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Ashe.png"
+  },
+  {
+    "id": "AurelionSol",
+    "name": "Aurelion Sol",
+    "title": "The Star Forger",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2016-03-24",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/AurelionSol.png"
+  },
+  {
+    "id": "Aurora",
+    "name": "Aurora",
+    "title": "the Witch Between Worlds",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "releaseDate": "2024-07-17",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Aurora.png"
+  },
+  {
+    "id": "Azir",
+    "name": "Azir",
+    "title": "the Emperor of the Sands",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "releaseDate": "2014-09-16",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Azir.png"
+  },
+  {
+    "id": "Bard",
+    "name": "Bard",
+    "title": "the Wandering Caretaker",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2015-03-05",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Bard.png"
+  },
+  {
+    "id": "Belveth",
+    "name": "Bel'Veth",
+    "title": "the Empress of the Void",
+    "roles": [
+      "Fighter"
+    ],
+    "releaseDate": "2022-06-09",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Belveth.png"
+  },
+  {
+    "id": "Blitzcrank",
+    "name": "Blitzcrank",
+    "title": "the Great Steam Golem",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "releaseDate": "2009-10-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Blitzcrank.png"
+  },
+  {
+    "id": "Brand",
+    "name": "Brand",
+    "title": "the Burning Vengeance",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2011-04-12",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Brand.png"
+  },
+  {
+    "id": "Braum",
+    "name": "Braum",
+    "title": "the Heart of the Freljord",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "releaseDate": "2014-05-12",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Braum.png"
+  },
+  {
+    "id": "Briar",
+    "name": "Briar",
+    "title": "the Restrained Hunger",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2023-09-13",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Briar.png"
+  },
+  {
+    "id": "Caitlyn",
+    "name": "Caitlyn",
+    "title": "the Sheriff of Piltover",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2011-01-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Caitlyn.png"
+  },
+  {
+    "id": "Camille",
+    "name": "Camille",
+    "title": "the Steel Shadow",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2016-12-07",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Camille.png"
+  },
+  {
+    "id": "Cassiopeia",
+    "name": "Cassiopeia",
+    "title": "the Serpent's Embrace",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2010-12-14",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Cassiopeia.png"
+  },
+  {
+    "id": "Chogath",
+    "name": "Cho'Gath",
+    "title": "the Terror of the Void",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Chogath.png"
+  },
+  {
+    "id": "Corki",
+    "name": "Corki",
+    "title": "the Daring Bombardier",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Corki.png"
+  },
+  {
+    "id": "Darius",
+    "name": "Darius",
+    "title": "the Hand of Noxus",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2012-05-23",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Darius.png"
+  },
+  {
+    "id": "Diana",
+    "name": "Diana",
+    "title": "Scorn of the Moon",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2012-08-07",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Diana.png"
+  },
+  {
+    "id": "DrMundo",
+    "name": "Dr. Mundo",
+    "title": "the Madman of Zaun",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "releaseDate": "2009-10-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/DrMundo.png"
+  },
+  {
+    "id": "Draven",
+    "name": "Draven",
+    "title": "the Glorious Executioner",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2012-06-06",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Draven.png"
+  },
+  {
+    "id": "Ekko",
+    "name": "Ekko",
+    "title": "the Boy Who Shattered Time",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "releaseDate": "2015-05-28",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Ekko.png"
+  },
+  {
+    "id": "Elise",
+    "name": "Elise",
+    "title": "the Spider Queen",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "releaseDate": "2012-10-26",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Elise.png"
+  },
+  {
+    "id": "Evelynn",
+    "name": "Evelynn",
+    "title": "Agony's Embrace",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "releaseDate": "2009-10-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Evelynn.png"
+  },
+  {
+    "id": "Ezreal",
+    "name": "Ezreal",
+    "title": "the Prodigal Explorer",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "releaseDate": "2010-03-16",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Ezreal.png"
+  },
+  {
+    "id": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "title": "the Ancient Fear",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Fiddlesticks.png"
+  },
+  {
+    "id": "Fiora",
+    "name": "Fiora",
+    "title": "the Grand Duelist",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2012-02-29",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Fiora.png"
+  },
+  {
+    "id": "Fizz",
+    "name": "Fizz",
+    "title": "the Tidal Trickster",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "releaseDate": "2011-11-15",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Fizz.png"
+  },
+  {
+    "id": "Galio",
+    "name": "Galio",
+    "title": "the Colossus",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "releaseDate": "2010-04-27",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Galio.png"
+  },
+  {
+    "id": "Gangplank",
+    "name": "Gangplank",
+    "title": "the Saltwater Scourge",
+    "roles": [
+      "Fighter"
+    ],
+    "releaseDate": "2010-01-13",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Gangplank.png"
+  },
+  {
+    "id": "Garen",
+    "name": "Garen",
+    "title": "The Might of Demacia",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2010-03-24",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Garen.png"
+  },
+  {
+    "id": "Gnar",
+    "name": "Gnar",
+    "title": "the Missing Link",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2014-08-11",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Gnar.png"
+  },
+  {
+    "id": "Gragas",
+    "name": "Gragas",
+    "title": "the Rabble Rouser",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "releaseDate": "2010-02-02",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Gragas.png"
+  },
+  {
+    "id": "Graves",
+    "name": "Graves",
+    "title": "the Outlaw",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2011-10-19",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Graves.png"
+  },
+  {
+    "id": "Gwen",
+    "name": "Gwen",
+    "title": "The Hallowed Seamstress",
+    "roles": [
+      "Fighter"
+    ],
+    "releaseDate": "2021-04-15",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Gwen.png"
+  },
+  {
+    "id": "Hecarim",
+    "name": "Hecarim",
+    "title": "the Shadow of War",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2012-04-18",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Hecarim.png"
+  },
+  {
+    "id": "Heimerdinger",
+    "name": "Heimerdinger",
+    "title": "the Revered Inventor",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Heimerdinger.png"
+  },
+  {
+    "id": "Hwei",
+    "name": "Hwei",
+    "title": "the Visionary",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2023-12-06",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Hwei.png"
+  },
+  {
+    "id": "Illaoi",
+    "name": "Illaoi",
+    "title": "the Kraken Priestess",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2015-11-24",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Illaoi.png"
+  },
+  {
+    "id": "Irelia",
+    "name": "Irelia",
+    "title": "the Blade Dancer",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2010-12-14",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Irelia.png"
+  },
+  {
+    "id": "Ivern",
+    "name": "Ivern",
+    "title": "the Green Father",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2016-10-05",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Ivern.png"
+  },
+  {
+    "id": "Janna",
+    "name": "Janna",
+    "title": "the Storm's Fury",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Janna.png"
+  },
+  {
+    "id": "JarvanIV",
+    "name": "Jarvan IV",
+    "title": "the Exemplar of Demacia",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2011-03-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/JarvanIV.png"
+  },
+  {
+    "id": "Jax",
+    "name": "Jax",
+    "title": "Grandmaster at Arms",
+    "roles": [
+      "Fighter"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Jax.png"
+  },
+  {
+    "id": "Jayce",
+    "name": "Jayce",
+    "title": "the Defender of Tomorrow",
+    "roles": [
+      "Fighter",
+      "Marksman"
+    ],
+    "releaseDate": "2012-07-07",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Jayce.png"
+  },
+  {
+    "id": "Jhin",
+    "name": "Jhin",
+    "title": "the Virtuoso",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "releaseDate": "2016-02-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Jhin.png"
+  },
+  {
+    "id": "Jinx",
+    "name": "Jinx",
+    "title": "the Loose Cannon",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2013-10-10",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Jinx.png"
+  },
+  {
+    "id": "KSante",
+    "name": "K'Sante",
+    "title": "the Pride of Nazumah",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "releaseDate": "2022-11-03",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/KSante.png"
+  },
+  {
+    "id": "Kaisa",
+    "name": "Kai'Sa",
+    "title": "Daughter of the Void",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "releaseDate": "2018-03-07",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Kaisa.png"
+  },
+  {
+    "id": "Kalista",
+    "name": "Kalista",
+    "title": "the Spear of Vengeance",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2014-11-20",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Kalista.png"
+  },
+  {
+    "id": "Karma",
+    "name": "Karma",
+    "title": "the Enlightened One",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2011-03-23",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Karma.png"
+  },
+  {
+    "id": "Karthus",
+    "name": "Karthus",
+    "title": "the Deathsinger",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Karthus.png"
+  },
+  {
+    "id": "Kassadin",
+    "name": "Kassadin",
+    "title": "the Void Walker",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Kassadin.png"
+  },
+  {
+    "id": "Katarina",
+    "name": "Katarina",
+    "title": "the Sinister Blade",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Katarina.png"
+  },
+  {
+    "id": "Kayle",
+    "name": "Kayle",
+    "title": "the Righteous",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Kayle.png"
+  },
+  {
+    "id": "Kayn",
+    "name": "Kayn",
+    "title": "the Shadow Reaper",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2017-07-12",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Kayn.png"
+  },
+  {
+    "id": "Kennen",
+    "name": "Kennen",
+    "title": "the Heart of the Tempest",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2010-10-19",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Kennen.png"
+  },
+  {
+    "id": "Khazix",
+    "name": "Kha'Zix",
+    "title": "the Voidreaver",
+    "roles": [
+      "Assassin"
+    ],
+    "releaseDate": "2012-09-27",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Khazix.png"
+  },
+  {
+    "id": "Kindred",
+    "name": "Kindred",
+    "title": "The Eternal Hunters",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2015-10-14",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Kindred.png"
+  },
+  {
+    "id": "Kled",
+    "name": "Kled",
+    "title": "the Cantankerous Cavalier",
+    "roles": [
+      "Fighter"
+    ],
+    "releaseDate": "2016-08-10",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Kled.png"
+  },
+  {
+    "id": "KogMaw",
+    "name": "Kog'Maw",
+    "title": "the Mouth of the Abyss",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "releaseDate": "2010-06-24",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/KogMaw.png"
+  },
+  {
+    "id": "Leblanc",
+    "name": "LeBlanc",
+    "title": "the Deceiver",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "releaseDate": "2010-11-02",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Leblanc.png"
+  },
+  {
+    "id": "LeeSin",
+    "name": "Lee Sin",
+    "title": "the Blind Monk",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2011-04-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/LeeSin.png"
+  },
+  {
+    "id": "Leona",
+    "name": "Leona",
+    "title": "the Radiant Dawn",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "releaseDate": "2011-07-13",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Leona.png"
+  },
+  {
+    "id": "Lillia",
+    "name": "Lillia",
+    "title": "the Bashful Bloom",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "releaseDate": "2020-07-22",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Lillia.png"
+  },
+  {
+    "id": "Lissandra",
+    "name": "Lissandra",
+    "title": "the Ice Witch",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2013-04-30",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Lissandra.png"
+  },
+  {
+    "id": "Lucian",
+    "name": "Lucian",
+    "title": "the Purifier",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "releaseDate": "2013-08-22",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Lucian.png"
+  },
+  {
+    "id": "Lulu",
+    "name": "Lulu",
+    "title": "the Fae Sorceress",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2012-03-20",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Lulu.png"
+  },
+  {
+    "id": "Lux",
+    "name": "Lux",
+    "title": "the Lady of Luminosity",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2010-10-19",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Lux.png"
+  },
+  {
+    "id": "Malphite",
+    "name": "Malphite",
+    "title": "Shard of the Monolith",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Malphite.png"
+  },
+  {
+    "id": "Malzahar",
+    "name": "Malzahar",
+    "title": "the Prophet of the Void",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2010-08-10",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Malzahar.png"
+  },
+  {
+    "id": "Maokai",
+    "name": "Maokai",
+    "title": "the Twisted Treant",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "releaseDate": "2011-01-18",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Maokai.png"
+  },
+  {
+    "id": "MasterYi",
+    "name": "Master Yi",
+    "title": "the Wuju Bladesman",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/MasterYi.png"
+  },
+  {
+    "id": "Mel",
+    "name": "Mel",
+    "title": "the Soul's Reflection",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2025-01-22",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Mel.png"
+  },
+  {
+    "id": "Milio",
+    "name": "Milio",
+    "title": "The Gentle Flame",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2023-03-22",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Milio.png"
+  },
+  {
+    "id": "MissFortune",
+    "name": "Miss Fortune",
+    "title": "the Bounty Hunter",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "releaseDate": "2010-11-16",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/MissFortune.png"
+  },
+  {
+    "id": "Mordekaiser",
+    "name": "Mordekaiser",
+    "title": "the Iron Revenant",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "releaseDate": "2010-02-24",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Mordekaiser.png"
+  },
+  {
+    "id": "Morgana",
+    "name": "Morgana",
+    "title": "the Fallen",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Morgana.png"
+  },
+  {
+    "id": "Naafiri",
+    "name": "Naafiri",
+    "title": "the Hound of a Hundred Bites",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "releaseDate": "2023-07-19",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Naafiri.png"
+  },
+  {
+    "id": "Nami",
+    "name": "Nami",
+    "title": "the Tidecaller",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2012-12-06",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Nami.png"
+  },
+  {
+    "id": "Nasus",
+    "name": "Nasus",
+    "title": "the Curator of the Sands",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Nasus.png"
+  },
+  {
+    "id": "Nautilus",
+    "name": "Nautilus",
+    "title": "the Titan of the Depths",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "releaseDate": "2012-02-14",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Nautilus.png"
+  },
+  {
+    "id": "Neeko",
+    "name": "Neeko",
+    "title": "the Curious Chameleon",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2018-12-05",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Neeko.png"
+  },
+  {
+    "id": "Nidalee",
+    "name": "Nidalee",
+    "title": "the Bestial Huntress",
+    "roles": [
+      "Assassin",
+      "Mage"
+    ],
+    "releaseDate": "2010-03-24",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Nidalee.png"
+  },
+  {
+    "id": "Nilah",
+    "name": "Nilah",
+    "title": "the Joy Unbound",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2022-07-13",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Nilah.png"
+  },
+  {
+    "id": "Nocturne",
+    "name": "Nocturne",
+    "title": "the Eternal Nightmare",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2011-03-15",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Nocturne.png"
+  },
+  {
+    "id": "Nunu",
+    "name": "Nunu & Willump",
+    "title": "the Boy and His Yeti",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Nunu.png"
+  },
+  {
+    "id": "Olaf",
+    "name": "Olaf",
+    "title": "the Berserker",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2010-08-24",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Olaf.png"
+  },
+  {
+    "id": "Orianna",
+    "name": "Orianna",
+    "title": "the Lady of Clockwork",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2011-06-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Orianna.png"
+  },
+  {
+    "id": "Ornn",
+    "name": "Ornn",
+    "title": "The Fire below the Mountain",
+    "roles": [
+      "Tank"
+    ],
+    "releaseDate": "2017-08-23",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Ornn.png"
+  },
+  {
+    "id": "Pantheon",
+    "name": "Pantheon",
+    "title": "the Unbreakable Spear",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2010-04-20",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Pantheon.png"
+  },
+  {
+    "id": "Poppy",
+    "name": "Poppy",
+    "title": "Keeper of the Hammer",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "releaseDate": "2010-01-13",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Poppy.png"
+  },
+  {
+    "id": "Pyke",
+    "name": "Pyke",
+    "title": "the Bloodharbor Ripper",
+    "roles": [
+      "Support",
+      "Assassin"
+    ],
+    "releaseDate": "2018-05-31",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Pyke.png"
+  },
+  {
+    "id": "Qiyana",
+    "name": "Qiyana",
+    "title": "Empress of the Elements",
+    "roles": [
+      "Assassin"
+    ],
+    "releaseDate": "2019-06-28",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Qiyana.png"
+  },
+  {
+    "id": "Quinn",
+    "name": "Quinn",
+    "title": "Demacia's Wings",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "releaseDate": "2013-03-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Quinn.png"
+  },
+  {
+    "id": "Rakan",
+    "name": "Rakan",
+    "title": "The Charmer",
+    "roles": [
+      "Support"
+    ],
+    "releaseDate": "2017-04-19",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Rakan.png"
+  },
+  {
+    "id": "Rammus",
+    "name": "Rammus",
+    "title": "the Armordillo",
+    "roles": [
+      "Tank"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Rammus.png"
+  },
+  {
+    "id": "RekSai",
+    "name": "Rek'Sai",
+    "title": "the Void Burrower",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2014-12-11",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/RekSai.png"
+  },
+  {
+    "id": "Rell",
+    "name": "Rell",
+    "title": "the Iron Maiden",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "releaseDate": "2020-12-10",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Rell.png"
+  },
+  {
+    "id": "Renata",
+    "name": "Renata Glasc",
+    "title": "the Chem-Baroness",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2022-02-17",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Renata.png"
+  },
+  {
+    "id": "Renekton",
+    "name": "Renekton",
+    "title": "the Butcher of the Sands",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2011-01-18",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Renekton.png"
+  },
+  {
+    "id": "Rengar",
+    "name": "Rengar",
+    "title": "the Pridestalker",
+    "roles": [
+      "Assassin",
+      "Fighter"
+    ],
+    "releaseDate": "2012-08-22",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Rengar.png"
+  },
+  {
+    "id": "Riven",
+    "name": "Riven",
+    "title": "the Exile",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2012-09-19",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Riven.png"
+  },
+  {
+    "id": "Rumble",
+    "name": "Rumble",
+    "title": "the Mechanized Menace",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "releaseDate": "2011-04-26",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Rumble.png"
+  },
+  {
+    "id": "Ryze",
+    "name": "Ryze",
+    "title": "the Rune Mage",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Ryze.png"
+  },
+  {
+    "id": "Samira",
+    "name": "Samira",
+    "title": "the Desert Rose",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "releaseDate": "2020-09-21",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Samira.png"
+  },
+  {
+    "id": "Sejuani",
+    "name": "Sejuani",
+    "title": "Fury of the North",
+    "roles": [
+      "Tank"
+    ],
+    "releaseDate": "2012-01-17",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Sejuani.png"
+  },
+  {
+    "id": "Senna",
+    "name": "Senna",
+    "title": "the Redeemer",
+    "roles": [
+      "Support",
+      "Marksman"
+    ],
+    "releaseDate": "2019-11-10",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Senna.png"
+  },
+  {
+    "id": "Seraphine",
+    "name": "Seraphine",
+    "title": "the Starry-Eyed Songstress",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2020-10-29",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Seraphine.png"
+  },
+  {
+    "id": "Sett",
+    "name": "Sett",
+    "title": "the Boss",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2020-01-14",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Sett.png"
+  },
+  {
+    "id": "Shaco",
+    "name": "Shaco",
+    "title": "the Demon Jester",
+    "roles": [
+      "Assassin"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Shaco.png"
+  },
+  {
+    "id": "Shen",
+    "name": "Shen",
+    "title": "the Eye of Twilight",
+    "roles": [
+      "Tank"
+    ],
+    "releaseDate": "2010-10-05",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Shen.png"
+  },
+  {
+    "id": "Shyvana",
+    "name": "Shyvana",
+    "title": "the Half-Dragon",
+    "roles": [
+      "Fighter",
+      "Mage"
+    ],
+    "releaseDate": "2011-11-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Shyvana.png"
+  },
+  {
+    "id": "Singed",
+    "name": "Singed",
+    "title": "the Mad Chemist",
+    "roles": [
+      "Tank",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Singed.png"
+  },
+  {
+    "id": "Sion",
+    "name": "Sion",
+    "title": "The Undead Juggernaut",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Sion.png"
+  },
+  {
+    "id": "Sivir",
+    "name": "Sivir",
+    "title": "the Battle Mistress",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Sivir.png"
+  },
+  {
+    "id": "Skarner",
+    "name": "Skarner",
+    "title": "the Primordial Sovereign",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "releaseDate": "2011-07-27",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Skarner.png"
+  },
+  {
+    "id": "Smolder",
+    "name": "Smolder",
+    "title": "the Fiery Fledgling",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "releaseDate": "2024-02-07",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Smolder.png"
+  },
+  {
+    "id": "Sona",
+    "name": "Sona",
+    "title": "Maven of the Strings",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2010-09-21",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Sona.png"
+  },
+  {
+    "id": "Soraka",
+    "name": "Soraka",
+    "title": "the Starchild",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Soraka.png"
+  },
+  {
+    "id": "Swain",
+    "name": "Swain",
+    "title": "the Noxian Grand General",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2010-12-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Swain.png"
+  },
+  {
+    "id": "Sylas",
+    "name": "Sylas",
+    "title": "the Unshackled",
+    "roles": [
+      "Mage",
+      "Assassin"
+    ],
+    "releaseDate": "2019-01-25",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Sylas.png"
+  },
+  {
+    "id": "Syndra",
+    "name": "Syndra",
+    "title": "the Dark Sovereign",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2012-09-13",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Syndra.png"
+  },
+  {
+    "id": "TahmKench",
+    "name": "Tahm Kench",
+    "title": "The River King",
+    "roles": [
+      "Tank",
+      "Support"
+    ],
+    "releaseDate": "2015-07-09",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/TahmKench.png"
+  },
+  {
+    "id": "Taliyah",
+    "name": "Taliyah",
+    "title": "the Stoneweaver",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2016-05-18",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Taliyah.png"
+  },
+  {
+    "id": "Talon",
+    "name": "Talon",
+    "title": "the Blade's Shadow",
+    "roles": [
+      "Assassin"
+    ],
+    "releaseDate": "2011-08-23",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Talon.png"
+  },
+  {
+    "id": "Taric",
+    "name": "Taric",
+    "title": "the Shield of Valoran",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Taric.png"
+  },
+  {
+    "id": "Teemo",
+    "name": "Teemo",
+    "title": "the Swift Scout",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Teemo.png"
+  },
+  {
+    "id": "Thresh",
+    "name": "Thresh",
+    "title": "the Chain Warden",
+    "roles": [
+      "Support",
+      "Tank"
+    ],
+    "releaseDate": "2013-01-23",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Thresh.png"
+  },
+  {
+    "id": "Tristana",
+    "name": "Tristana",
+    "title": "the Yordle Gunner",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Tristana.png"
+  },
+  {
+    "id": "Trundle",
+    "name": "Trundle",
+    "title": "the Troll King",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2010-09-08",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Trundle.png"
+  },
+  {
+    "id": "Tryndamere",
+    "name": "Tryndamere",
+    "title": "the Barbarian King",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Tryndamere.png"
+  },
+  {
+    "id": "TwistedFate",
+    "name": "Twisted Fate",
+    "title": "the Card Master",
+    "roles": [
+      "Mage",
+      "Marksman"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/TwistedFate.png"
+  },
+  {
+    "id": "Twitch",
+    "name": "Twitch",
+    "title": "the Plague Rat",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Twitch.png"
+  },
+  {
+    "id": "Udyr",
+    "name": "Udyr",
+    "title": "the Spirit Walker",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2010-03-16",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Udyr.png"
+  },
+  {
+    "id": "Urgot",
+    "name": "Urgot",
+    "title": "the Dreadnought",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2010-07-26",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Urgot.png"
+  },
+  {
+    "id": "Varus",
+    "name": "Varus",
+    "title": "the Arrow of Retribution",
+    "roles": [
+      "Marksman",
+      "Mage"
+    ],
+    "releaseDate": "2012-05-08",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Varus.png"
+  },
+  {
+    "id": "Vayne",
+    "name": "Vayne",
+    "title": "the Night Hunter",
+    "roles": [
+      "Marksman",
+      "Assassin"
+    ],
+    "releaseDate": "2011-05-10",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Vayne.png"
+  },
+  {
+    "id": "Veigar",
+    "name": "Veigar",
+    "title": "the Tiny Master of Evil",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Veigar.png"
+  },
+  {
+    "id": "Velkoz",
+    "name": "Vel'Koz",
+    "title": "the Eye of the Void",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2014-02-26",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Velkoz.png"
+  },
+  {
+    "id": "Vex",
+    "name": "Vex",
+    "title": "the Gloomist",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2021-09-22",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Vex.png"
+  },
+  {
+    "id": "Vi",
+    "name": "Vi",
+    "title": "the Piltover Enforcer",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2012-12-19",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Vi.png"
+  },
+  {
+    "id": "Viego",
+    "name": "Viego",
+    "title": "The Ruined King",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2021-01-21",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Viego.png"
+  },
+  {
+    "id": "Viktor",
+    "name": "Viktor",
+    "title": "the Herald of the Arcane",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2011-12-29",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Viktor.png"
+  },
+  {
+    "id": "Vladimir",
+    "name": "Vladimir",
+    "title": "the Crimson Reaper",
+    "roles": [
+      "Mage",
+      "Fighter"
+    ],
+    "releaseDate": "2010-08-10",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Vladimir.png"
+  },
+  {
+    "id": "Volibear",
+    "name": "Volibear",
+    "title": "the Relentless Storm",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2012-12-14",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Volibear.png"
+  },
+  {
+    "id": "Warwick",
+    "name": "Warwick",
+    "title": "the Uncaged Wrath of Zaun",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Warwick.png"
+  },
+  {
+    "id": "MonkeyKing",
+    "name": "Wukong",
+    "title": "the Monkey King",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2011-09-26",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/MonkeyKing.png"
+  },
+  {
+    "id": "Xayah",
+    "name": "Xayah",
+    "title": "the Rebel",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2017-04-19",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Xayah.png"
+  },
+  {
+    "id": "Xerath",
+    "name": "Xerath",
+    "title": "the Magus Ascendant",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2012-10-05",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Xerath.png"
+  },
+  {
+    "id": "XinZhao",
+    "name": "Xin Zhao",
+    "title": "the Seneschal of Demacia",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2010-07-13",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/XinZhao.png"
+  },
+  {
+    "id": "Yasuo",
+    "name": "Yasuo",
+    "title": "the Unforgiven",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2013-12-27",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Yasuo.png"
+  },
+  {
+    "id": "Yone",
+    "name": "Yone",
+    "title": "the Unforgotten",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2020-08-05",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Yone.png"
+  },
+  {
+    "id": "Yorick",
+    "name": "Yorick",
+    "title": "Shepherd of Souls",
+    "roles": [
+      "Fighter",
+      "Tank"
+    ],
+    "releaseDate": "2011-07-26",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Yorick.png"
+  },
+  {
+    "id": "Yunara",
+    "name": "Yunara",
+    "title": "the Unbroken Faith",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Yunara.png"
+  },
+  {
+    "id": "Yuumi",
+    "name": "Yuumi",
+    "title": "the Magical Cat",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2019-05-14",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Yuumi.png"
+  },
+  {
+    "id": "Zaahen",
+    "name": "Zaahen",
+    "title": "The Unsundered",
+    "roles": [
+      "Fighter",
+      "Assassin"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Zaahen.png"
+  },
+  {
+    "id": "Zac",
+    "name": "Zac",
+    "title": "the Secret Weapon",
+    "roles": [
+      "Tank",
+      "Fighter"
+    ],
+    "releaseDate": "2013-03-29",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Zac.png"
+  },
+  {
+    "id": "Zed",
+    "name": "Zed",
+    "title": "the Master of Shadows",
+    "roles": [
+      "Assassin"
+    ],
+    "releaseDate": "2012-11-13",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Zed.png"
+  },
+  {
+    "id": "Zeri",
+    "name": "Zeri",
+    "title": "The Spark of Zaun",
+    "roles": [
+      "Marksman"
+    ],
+    "releaseDate": "2022-01-20",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Zeri.png"
+  },
+  {
+    "id": "Ziggs",
+    "name": "Ziggs",
+    "title": "the Hexplosives Expert",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2012-02-01",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Ziggs.png"
+  },
+  {
+    "id": "Zilean",
+    "name": "Zilean",
+    "title": "the Chronokeeper",
+    "roles": [
+      "Support",
+      "Mage"
+    ],
+    "releaseDate": "2009-09-04",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Zilean.png"
+  },
+  {
+    "id": "Zoe",
+    "name": "Zoe",
+    "title": "the Aspect of Twilight",
+    "roles": [
+      "Mage"
+    ],
+    "releaseDate": "2017-11-21",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Zoe.png"
+  },
+  {
+    "id": "Zyra",
+    "name": "Zyra",
+    "title": "Rise of the Thorns",
+    "roles": [
+      "Mage",
+      "Support"
+    ],
+    "releaseDate": "2012-07-24",
+    "region": "Unknown",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/16.4.1/img/champion/Zyra.png"
+  }
+]

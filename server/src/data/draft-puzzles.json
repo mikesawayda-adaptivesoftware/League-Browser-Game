@@ -1,0 +1,38 @@
+[
+  {
+    "enemyComp": ["Malphite", "Hecarim", "Orianna", "Jinx", "Lulu"],
+    "answerComp": ["Yasuo", "Graves", "Ahri", "Miss Fortune", "Thresh"],
+    "pool": ["Yasuo", "Graves", "Ahri", "Miss Fortune", "Thresh", "Darius", "Vi", "Lux", "Caitlyn", "Leona", "Kennen", "Nidalee", "Zed", "Lucian", "Nautilus", "Garen", "Sejuani", "Syndra", "Tristana", "Blitzcrank"],
+    "explanation": "Malphite + Hecarim + Orianna creates a massive AOE engage combo. Yasuo benefits from their knockups while Miss Fortune's Bullet Time devastates a clumped team. Ahri provides mobility to dodge the engage, Graves counters Hecarim's jungle, and Thresh offers a pick-off threat."
+  },
+  {
+    "enemyComp": ["Fiora", "Vi", "Zed", "Caitlyn", "Thresh"],
+    "answerComp": ["Malphite", "Rammus", "Lissandra", "Jinx", "Janna"],
+    "pool": ["Malphite", "Rammus", "Lissandra", "Jinx", "Janna", "Garen", "Sejuani", "Orianna", "Miss Fortune", "Nautilus", "Renekton", "Nunu", "Diana", "Tristana", "Soraka", "Camille", "Elise", "Akali", "Ashe", "Leona"],
+    "explanation": "This is a high-burst, dive-heavy comp. Malphite and Rammus are armor tanks that punish Fiora and Vi's AD damage. Lissandra counters Zed's all-in with her self-CC ult. Jinx outranges Caitlyn in extended fights, and Janna's disengage keeps divers off the carries."
+  },
+  {
+    "enemyComp": ["Gangplank", "Kha'Zix", "Cassiopeia", "Kog'Maw", "Braum"],
+    "answerComp": ["Darius", "Warwick", "LeBlanc", "Miss Fortune", "Leona"],
+    "pool": ["Darius", "Warwick", "LeBlanc", "Miss Fortune", "Leona", "Olaf", "Graves", "Ahri", "Caitlyn", "Thresh", "Sett", "Vi", "Zoe", "Jinx", "Nautilus", "Irelia", "Udyr", "Syndra", "Lucian", "Lulu"],
+    "explanation": "Kog'Maw is immobile and vulnerable — Leona + Miss Fortune's Bullet Time nukes him in teamfights. Darius counters Gangplank's split-push, Warwick duels and suppresses Kha'Zix, and LeBlanc assassinates Cassiopeia before she can stack up."
+  },
+  {
+    "enemyComp": ["Vladimir", "Nidalee", "Lux", "Ezreal", "Karma"],
+    "answerComp": ["Darius", "Vi", "Zed", "Draven", "Blitzcrank"],
+    "pool": ["Darius", "Vi", "Zed", "Draven", "Blitzcrank", "Garen", "Sejuani", "LeBlanc", "Miss Fortune", "Thresh", "Urgot", "Jarvan IV", "Talon", "Caitlyn", "Leona", "Malphite", "Shaco", "Vex", "Jinx", "Nautilus"],
+    "explanation": "Poke-heavy comp with Vladimir's sustain. Darius forces Vladimir to fight short-range. Zed burst-assassinates Lux before she can respond. Draven out-DPSes Ezreal, Blitzcrank hooks out mispositioned supports, and Vi's gap-close collapses on Nidalee."
+  },
+  {
+    "enemyComp": ["Tryndamere", "Shyvana", "Twisted Fate", "Vayne", "Yuumi"],
+    "answerComp": ["Malphite", "Jarvan IV", "Lissandra", "Caitlyn", "Nautilus"],
+    "pool": ["Malphite", "Jarvan IV", "Lissandra", "Caitlyn", "Nautilus", "Darius", "Vi", "Syndra", "Miss Fortune", "Thresh", "Garen", "Kha'Zix", "Orianna", "Jinx", "Leona", "Camille", "Elise", "Ahri", "Ashe", "Blitzcrank"],
+    "explanation": "Vayne + Yuumi is the core threat. Caitlyn + Nautilus kite and poke them in lane while denying the Yuumi synergy with early all-ins. Lissandra hard counters Twisted Fate's gold card, Malphite walls Tryndamere's split-push, and Jarvan disrupts Shyvana's skirmishing."
+  },
+  {
+    "enemyComp": ["Renekton", "Lee Sin", "Akali", "Sivir", "Alistar"],
+    "answerComp": ["Garen", "Rammus", "Diana", "Miss Fortune", "Janna"],
+    "pool": ["Garen", "Rammus", "Diana", "Miss Fortune", "Janna", "Malphite", "Sejuani", "Lissandra", "Jinx", "Thresh", "Darius", "Vi", "Vex", "Caitlyn", "Leona", "Sett", "Nunu", "Syndra", "Lucian", "Nautilus"],
+    "explanation": "Lee Sin + Akali dive makes this a mobile assassin comp. Garen ignores Renekton's Cull the Meek sustain with his shield. Rammus punishes Lee Sin's physical damage hard. Diana matches Akali's skirmish power. Janna disengage prevents Alistar from following up his CC."
+  }
+]

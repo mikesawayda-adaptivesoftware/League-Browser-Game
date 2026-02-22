@@ -1,0 +1,31 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  firebaseUid String       @id
+  username    String       @unique
+  email       String       @unique
+  createdAt   DateTime     @default(now())
+  results     GameResult[]
+}
+
+model GameResult {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [firebaseUid])
+  gameMode    String
+  puzzleId    String
+  isDaily     Boolean
+  attempts    Int
+  score       Int
+  completedAt DateTime @default(now())
+
+  @@index([gameMode, score(sort: Desc)])
+  @@index([userId, gameMode])
+}

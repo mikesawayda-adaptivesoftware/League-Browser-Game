@@ -1,0 +1,74 @@
+[
+  {
+    "excerpt": "Q - ███████ Strikes\nBase damage: 80/120/160/200/240 ⇒ 90/130/170/210/250\n\nW - Windwall\nCooldown: 26/24/22/20/18s ⇒ 30/28/26/24/22s\n\nThis █████ continues to dominate the top lane and mid lane, particularly after picking up Immortal Shieldbow.",
+    "answer": "Yasuo",
+    "patch": "13.14",
+    "type": "champion"
+  },
+  {
+    "excerpt": "Base Stats\nBase HP: 570 ⇒ 530\nArmor: 24 ⇒ 21\n\nR - ██████'s Requiem\nCooldown: 200/180/160s ⇒ 200/180/160s (unchanged)\nCost: 100 mana ⇒ No cost\n\nLane phase survivability reduced to compensate for the global ultimate remaining strong.",
+    "answer": "Karthus",
+    "patch": "13.10",
+    "type": "champion"
+  },
+  {
+    "excerpt": "█████████ (Active)\nDamage: 100-200 (based on level) ⇒ 80-180\nHealing: 20-40% ⇒ 15-35%\n\nTotal Cost: 3200 ⇒ 3400\n\nItem power reduced across the board as it provided too much sustain to its primary users.",
+    "answer": "Immortal Shieldbow",
+    "patch": "13.6",
+    "type": "item"
+  },
+  {
+    "excerpt": "Passive - ██████ Form\n████ gained per stack: 3 ⇒ 4 (Maximum ████: 750 ⇒ 1000)\n\nQ - Baleful Strike\nDamage: 70/110/150/190/230 ⇒ 80/120/160/200/240\n\nSmall ██████ is big.",
+    "answer": "Veigar",
+    "patch": "14.1",
+    "type": "champion"
+  },
+  {
+    "excerpt": "Q - Decimating Smash\nMinimum damage: 40/70/100/130/160 ⇒ 50/80/110/140/170\nMax damage: 120/210/300/390/480 ⇒ 150/240/330/420/510\n\nR - ████ Line\n████ gets to punch again but harder.",
+    "answer": "Sett",
+    "patch": "13.20",
+    "type": "champion"
+  },
+  {
+    "excerpt": "E - Allure\nBase cooldown: 14/13/12/11/10s ⇒ 12/11/10/9/8s\n\nR - Prime Directive\nMana drain per second: 80 ⇒ 60\n\n███████ returns to viability in the jungle after her sustained combat numbers are improved.",
+    "answer": "Evelynn",
+    "patch": "13.18",
+    "type": "champion"
+  },
+  {
+    "excerpt": "Total Cost: 2900 ⇒ 3000\nActive shield: 250-450 ⇒ 200-400\nBonus armor: 20 ⇒ 15\n\n█████████ has been overperforming as a defensive option for marksmen and is having its shield and armor reduced.",
+    "answer": "Immortal Shieldbow",
+    "patch": "12.22",
+    "type": "item"
+  },
+  {
+    "excerpt": "W - Pix, Faerie Companion\nShield: 80/110/140/170/200 ⇒ 70/100/130/160/190\n\nR - Wild Growth\nKnockup duration: 0.75s ⇒ 0.6s\n\n████'s support dominant playstyle is toned down to allow more counterplay in late-game teamfights.",
+    "answer": "Lulu",
+    "patch": "13.3",
+    "type": "champion"
+  },
+  {
+    "excerpt": "Passive - ████████ Patience\nStacks required for bonus damage: 2 ⇒ 3\n\nW - Silver Bolts\nBolt damage percent: 10/12/14/16/18% ⇒ 8/10/12/14/16%\n\nSilver bolts were shredding through objectives too quickly.",
+    "answer": "Vayne",
+    "patch": "13.8",
+    "type": "champion"
+  },
+  {
+    "excerpt": "Q - Dark Sphere\nDamage: 70/110/150/190/230 ⇒ 80/120/160/200/240\nCooldown: 4s ⇒ 3.5s\n\n███████ felt undertuned at all skill levels after her mobility nerfs, so base ability damage is increased.",
+    "answer": "Syndra",
+    "patch": "14.3",
+    "type": "champion"
+  },
+  {
+    "excerpt": "Total Cost: 3000 ⇒ 2800\nAbility Haste: 15 ⇒ 20\nDeath Timer Reduction: 12% ⇒ 10%\n\n█████████ Codex is made more accessible to encourage its use on a wider range of enchanters.",
+    "answer": "Shurelya's Battlesong",
+    "patch": "13.5",
+    "type": "item"
+  },
+  {
+    "excerpt": "R - Explosive Charge\nBomb click-to-detonate range: 650 ⇒ 550\nStacks to reach max damage: 3 ⇒ 4\n\nPassive - Headshots\nStack accumulation time reset on move: 4s ⇒ 3s\n\n████████ lane bully power toned down in extended trades.",
+    "answer": "Caitlyn",
+    "patch": "13.12",
+    "type": "champion"
+  }
+]
